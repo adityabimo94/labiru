@@ -17,6 +17,7 @@
 
 <?php endforeach ?>
 
+
 <?php else: ?>
 
 <h3>No News</h3>
